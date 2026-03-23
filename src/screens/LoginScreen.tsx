@@ -1,4 +1,5 @@
 import { View, Text, StyleSheet, Image } from 'react-native';
+import { TextInput } from 'react-native';
 
 export default function LoginScreen() {
     return (
@@ -12,6 +13,16 @@ export default function LoginScreen() {
             <Text style={styles.subtitulo}>
                 Controle suas finanças com facilidade
             </Text>
+            <TextInput
+                placeholder="Email"
+                style={styles.input}
+            />
+
+            <TextInput
+                placeholder="Senha"
+                secureTextEntry
+                style={styles.input}
+            />
         </View>
     );
 }
@@ -37,6 +48,13 @@ const styles = StyleSheet.create({
         fontSize: 16,
         textAlign: 'center',
         marginTop: 8,
+    },
+    input: {
+        borderWidth: 1,
+        borderColor: '#ccc',
+        borderRadius: 8,
+        padding: 12,
+        marginTop: 12,
     },
     logoFake: {
         width: 80,
