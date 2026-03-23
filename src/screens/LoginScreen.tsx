@@ -1,5 +1,6 @@
 import { View, Text, StyleSheet, Image } from 'react-native';
 import { TextInput } from 'react-native';
+import { TouchableOpacity } from 'react-native';
 
 export default function LoginScreen() {
     return (
@@ -23,6 +24,10 @@ export default function LoginScreen() {
                 secureTextEntry
                 style={styles.input}
             />
+            <TouchableOpacity style={styles.botao}>
+                <Text style={styles.textoBotao}>Entrar</Text>
+            </TouchableOpacity>
+
         </View>
     );
 }
@@ -56,6 +61,7 @@ const styles = StyleSheet.create({
         padding: 12,
         marginTop: 12,
     },
+
     logoFake: {
         width: 80,
         height: 80,
@@ -68,5 +74,17 @@ const styles = StyleSheet.create({
     },
     logoTexto: {
         fontSize: 32,
+    },
+    botao: {
+        backgroundColor: '#4CAF50',
+        padding: 14,
+        borderRadius: 8,
+        marginTop: 16,
+        alignItems: 'center',
+    },
+    textoBotao: {
+        color: '#fff',
+        fontSize: 16,
+        fontWeight: 'bold',
     },
 });
