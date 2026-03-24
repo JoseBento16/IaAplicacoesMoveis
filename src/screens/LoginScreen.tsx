@@ -24,9 +24,14 @@ export default function LoginScreen() {
                 secureTextEntry
                 style={styles.input}
             />
+            <Text style={styles.link}>Esqueceu a senha?</Text>
+
             <TouchableOpacity style={styles.botao}>
                 <Text style={styles.textoBotao}>Entrar</Text>
             </TouchableOpacity>
+            <Text style={styles.linkCadastro}>
+                Não tem conta? Cadastre-se
+            </Text>
 
         </View>
     );
@@ -86,5 +91,15 @@ const styles = StyleSheet.create({
         color: '#fff',
         fontSize: 16,
         fontWeight: 'bold',
+    },
+    link: {
+        color: '#4CAF50',
+        textAlign: 'right',
+        marginTop: 8,
+    },
+    linkCadastro: {
+        color: '#4CAF50',
+        textAlign: 'center',
+        marginTop: 16,
     },
 });
