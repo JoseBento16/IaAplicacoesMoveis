@@ -1,6 +1,6 @@
-import { View, Text, StyleSheet, Image } from 'react-native';
-import { TextInput } from 'react-native';
-import { TouchableOpacity } from 'react-native';
+import React from 'react';
+import { View, Text, StyleSheet, Image, TextInput, TouchableOpacity } from 'react-native';
+
 
 export default function LoginScreen() {
     return (
