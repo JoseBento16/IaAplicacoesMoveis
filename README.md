@@ -21,10 +21,7 @@ O **DevCard** é um aplicativo mobile desenvolvido em React Native com o ecossis
     <td><strong>2. Tela de Cadastro</strong><img width="388" height="834" alt="img2" src="https://github.com/user-attachments/assets/ce838fa7-389a-49da-874a-eaaa9ab567a1" />
 </td>
   </tr>
-  <tr>
-    <td><img src="./.github/assets/tela-inicial.png" width="280" alt="Tela Inicial"></td>
-    <td><img src="./.github/assets/tela-cadastro.png" width="280" alt="Tela de Cadastro"></td>
-  </tr>
+
   <tr>
     <td><strong>3. Preview do Cartão</strong></td>
     <td><strong>4. Tela de Sucesso</strong></td>
