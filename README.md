@@ -17,8 +17,9 @@ O **DevCard** é um aplicativo mobile desenvolvido em React Native com o ecossis
 
 <table>
   <tr>
-    <td><strong>1. Tela Inicial</strong></td>
-    <td><strong>2. Tela de Cadastro</strong></td>
+    <td><strong>1. Tela Inicial</strong><img width="385" height="840" alt="img1" src="https://github.com/user-attachments/assets/24f4817a-38c2-43b2-bd3d-eb101f23b20f" /></td>
+    <td><strong>2. Tela de Cadastro</strong><img width="388" height="834" alt="img2" src="https://github.com/user-attachments/assets/ce838fa7-389a-49da-874a-eaaa9ab567a1" />
+</td>
   </tr>
   <tr>
     <td><img src="./.github/assets/tela-inicial.png" width="280" alt="Tela Inicial"></td>
@@ -29,8 +30,10 @@ O **DevCard** é um aplicativo mobile desenvolvido em React Native com o ecossis
     <td><strong>4. Tela de Sucesso</strong></td>
   </tr>
   <tr>
-    <td><img src="./.github/assets/tela-preview.png" width="280" alt="Preview do Cartão"></td>
-    <td><img src="./.github/assets/tela-sucesso.png" width="280" alt="Tela de Sucesso"></td>
+    <td><img src="./.github/assets/tela-preview.png" width="280" alt="Preview do Cartão"><img width="373" height="839" alt="img3" src="https://github.com/user-attachments/assets/0a9cabd9-3bcd-4251-8d50-bca85d91e95f" />
+</td>
+    <td><img src="./.github/assets/tela-sucesso.png" width="280" alt="Tela de Sucesso"><img width="373" height="842" alt="img4" src="https://github.com/user-attachments/assets/da939205-816b-486b-a495-028a8c03b53d" />
+</td>
   </tr>
 </table>
 
