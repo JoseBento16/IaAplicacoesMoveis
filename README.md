@@ -5,8 +5,8 @@ O **DevCard** é um aplicativo mobile desenvolvido em React Native com o ecossis
 ---
 
 ## 👨‍💻 Informações do Aluno
-* **Nome:** [osé Bento Abreu da Cruz 
-* **Matrícula:**4510202624  
+* **Nome:** José Bento Abreu da Cruz 
+* **Matrícula:** 510202624  
 * **Professor:** Brendo Vale  
 * **Disciplina:** Aplicações Móveis (Aula 7)  
 
