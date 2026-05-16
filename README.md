@@ -17,16 +17,20 @@ O **DevCard** é um aplicativo mobile desenvolvido em React Native com o ecossis
 
 <table>
   <tr>
-    <td><strong>1. Tela Inicial</strong><img width="385" height="840" alt="img1" src="https://github.com/user-attachments/assets/24f4817a-38c2-43b2-bd3d-eb101f23b20f" /></td>
-    <td><strong>2. Tela de Cadastro</strong><img width="388" height="834" alt="img2" src="https://github.com/user-attachments/assets/ce838fa7-389a-49da-874a-eaaa9ab567a1" />
-</td>
+    <td><strong>1. Tela Inicial</strong></td>
+    <td><strong>2. Tela de Cadastro</strong></td>
   </tr>
-
   <tr>
-    <td><strong>3. Preview do Cartão</strong><img width="373" height="839" alt="img3" src="https://github.com/user-attachments/assets/bb28224b-79c9-4b34-9cd2-3ffd993cf581" />
-</td>
-    <td><strong>4. Tela de Sucesso</strong><img width="373" height="842" alt="img4" src="https://github.com/user-attachments/assets/15f6c379-2d46-4d52-8504-05c1075fcee8" />
-</td>
+    <td> <img width="385" height="840" alt="img1" src="https://github.com/user-attachments/assets/fe4c0059-d957-46e8-8efc-55f38a43a283" /> </td>
+    <td> <img width="388" height="834" alt="img2" src="https://github.com/user-attachments/assets/b5b6aafd-a559-4dcc-b2ec-36155ead62cc" /> </td>
+  </tr>
+  <tr>
+    <td><strong>3. Preview do Cartão</strong></td>
+    <td><strong>4. Tela de Sucesso</strong></td>
+  </tr>
+  <tr>
+    <td> <img width="373" height="839" alt="img3" src="https://github.com/user-attachments/assets/ffb8f44e-36af-4362-8624-275e2be09b64" /> </td>
+    <td> <img width="373" height="842" alt="img4" src="https://github.com/user-attachments/assets/101f547f-5b2b-454c-a50a-83a5612e95da" /> </td>
   </tr>
 </table>
 
